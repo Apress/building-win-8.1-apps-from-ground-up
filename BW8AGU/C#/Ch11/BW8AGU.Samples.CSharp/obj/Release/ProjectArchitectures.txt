@@ -1,0 +1,1 @@
+C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\BW8AGU.Samples.CSharp.csproj;neutral

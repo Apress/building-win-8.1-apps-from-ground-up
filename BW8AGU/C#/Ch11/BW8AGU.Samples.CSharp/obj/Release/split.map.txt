@@ -1,0 +1,16 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-100"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\obj\Release\split.pri"			"resources.pri"
+"C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\obj\Release\PackageLayout\HubPage.xbf"			"HubPage.xbf"
+"C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\obj\Release\PackageLayout\Assets\StoreLogo.scale-100.png"			"Assets\StoreLogo.scale-100.png"
+"C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\obj\Release\PackageLayout\Assets\SplashScreen.scale-100.png"			"Assets\SplashScreen.scale-100.png"
+"C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\obj\Release\PackageLayout\Assets\SmallLogo.scale-100.png"			"Assets\SmallLogo.scale-100.png"
+"C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\obj\Release\PackageLayout\Assets\MediumGray.png"			"Assets\MediumGray.png"
+"C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\obj\Release\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"
+"C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\obj\Release\PackageLayout\Assets\LightGray.png"			"Assets\LightGray.png"
+"C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\obj\Release\PackageLayout\Assets\DarkGray.png"			"Assets\DarkGray.png"
+"C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\obj\Release\PackageLayout\Assets\BW8AGU.png"			"Assets\BW8AGU.png"
+"C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\obj\Release\PackageLayout\App.xbf"			"App.xbf"

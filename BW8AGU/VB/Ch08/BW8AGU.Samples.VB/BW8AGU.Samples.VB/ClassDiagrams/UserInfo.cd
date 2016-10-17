@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Windows.Security.Credentials.PasswordCredential">
+    <Position X="0.5" Y="1" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Windows.Security.Credentials.PasswordCredentialPropertyStore">
+    <Position X="3.5" Y="1" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Windows.Security.Credentials.PasswordVault">
+    <Position X="6.5" Y="1" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Windows.Security.Credentials.WebAccount">
+    <Position X="0.5" Y="5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Windows.Security.Credentials.WebAccountProvider">
+    <Position X="2.75" Y="5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Windows.Security.Credentials.WebAccountState">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

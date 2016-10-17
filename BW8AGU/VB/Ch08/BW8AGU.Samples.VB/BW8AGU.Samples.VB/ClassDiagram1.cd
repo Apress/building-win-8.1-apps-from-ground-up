@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BW8AGU.Samples.VB.App" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAIAAA=</HashCode>
+      <FileName>App.xaml.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.TempDataHelper" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\TempDataHelper.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.VersionHelper" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAABAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Common\VersionHelper.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.HubPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQEAAAAAAAACCAAAAAAAAAQAAAAAAAQAAAAAAAEAAEA=</HashCode>
+      <FileName>HubPage.xaml.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.WCFClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAAAAAACCAAIAAAAAAQAAAAAAAQAAAAAAAEAAEA=</HashCode>
+      <FileName>WCFClient.xaml.vb</FileName>
+      <NewMemberFileName>ItemPage.xaml.vb</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.LocalData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAACCAAAAAAAAASAAAAAAAQAAAAAAAEAAMQ=</HashCode>
+      <FileName>LocalData.xaml.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.RoamingData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAACCAAAAAAAQASAAAAAAAQAAAAAAAEAAMQ=</HashCode>
+      <FileName>RoamingData.xaml.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.SectionPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAAAAAAACCAAAAAAAAAQAAAAAAAQAAAAAAAEAAEA=</HashCode>
+      <FileName>SectionPage.xaml.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.SQLiteAccess" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAACCAAAAAAAAAQAAAAAAAQAAAAAAAEAAEA=</HashCode>
+      <FileName>SQLiteAccess.xaml.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.TempData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAICCAAAAAAAACQAAAAAAAQAAAAAAAEAAEA=</HashCode>
+      <FileName>TempData.xaml.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.UserData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAAAAAAAACCAAAAAAAAAQABAAAAAQAAQAEAAECAEA=</HashCode>
+      <FileName>UserData.xaml.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.Common.BooleanToVisibilityConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\BooleanToVisibilityConverter.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.Common.NavigationHelper" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAUCAQAAAACAAIRAQAAAQAAAUAAAAAAAABAAk=</HashCode>
+      <FileName>Common\NavigationHelper.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.Common.LoadStateEventArgs" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.Common.SaveStateEventArgs" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.Common.ObservableDictionary" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCIAAABAAAAEABAQiAAABEQFAAAAAAAAAAAgAABQIAI=</HashCode>
+      <FileName>Common\ObservableDictionary.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.Common.RelayCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEACAAQAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\RelayCommand.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.Common.SuspensionManager" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAaIAASCBEAAAICAAAAAIAAAAAAAAAAIAAAABA=</HashCode>
+      <FileName>Common\SuspensionManager.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.Common.SuspensionManagerException" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\SuspensionManager.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.Data.SampleDataItem" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAoAgAEQFQAABAIQIAAAAQJAAAAAAAAAARAA=</HashCode>
+      <FileName>DataModel\SampleDataSource.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.Data.SampleDataGroup" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAgCEQEQAABAIQIABAAQJAAAAAAAAAARAA=</HashCode>
+      <FileName>DataModel\SampleDataSource.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BW8AGU.Samples.VB.Data.SampleDataSource" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAEAAAAAAAAAAAAIAAoAAAABAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>DataModel\SampleDataSource.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="BW8AGU.Samples.VB.Common.LoadStateEventHandler" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="BW8AGU.Samples.VB.Common.SaveStateEventHandler" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

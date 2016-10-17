@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="it-IT" original="BW8AGU.Samples.CSharp_Multilingual.prilog.xml" tool-id="MultilingualAppToolkit" product-name="BW8AGU.Samples.CSharp" product-version="1.0.0.0" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="2.1.1100.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resources">
+        <trans-unit translate="yes" id="Resources\WelcomeMessage" xml:space="preserve">
+          <source>Hello World!</source>
+          <target state="new">Hello World!</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">A welcome message</note>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resources\WelcomeLabel\Width" xml:space="preserve">
+          <source>75</source>
+          <target state="new">75</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Correct size of width</note>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resources\WelcomeLabel\Text" xml:space="preserve">
+          <source>Hello World from Welcome Label</source>
+          <target state="new">Hello World from Welcome Label</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">A message for a welcome label</note>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resources\WelcomeLabel\FlowDirection" xml:space="preserve">
+          <source>LeftToRight</source>
+          <target state="new">LeftToRight</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Set the flow direction</note>
+        </trans-unit>
+      </group>
+      <group id="Errors">
+        <trans-unit translate="yes" id="Errors\GenericError" xml:space="preserve">
+          <source>Oops! Something went wrong!</source>
+          <target state="new">Oops! Something went wrong!</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Generic error message</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

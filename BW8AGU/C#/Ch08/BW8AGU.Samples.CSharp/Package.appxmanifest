@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="5788turibbio.BW8AGUFacebookSample" Publisher="CN=B8C04164-A7F9-466B-B228-ECA23BBF9C4D" Version="1.1.0.0" />
+  <Properties>
+    <DisplayName>BW8AGU Facebook Sample</DisplayName>
+    <PublisherDisplayName>turibbio</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="BW8AGU.Samples.CSharp.App">
+      <m2:VisualElements DisplayName="BW8AGU Facebook Sample" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="BW8AGU.Samples.CSharp" ForegroundText="light" BackgroundColor="#ffffff">
+        <m2:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#ffffff" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <Capability Name="picturesLibrary" />
+  </Capabilities>
+</Package>

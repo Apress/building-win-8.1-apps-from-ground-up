@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELLBOOK</Machine>
+    <WindowsUser>AntonioTuribbio</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2198c957-1c7c-41ad-9dbd-e8f5e0d99000</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch05\FirstApp\FirstApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch05\FirstApp\FirstApp\bin\Debug\FirstApp.exe">
+      <PackagePath>FirstApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch05\FirstApp\FirstApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch05\FirstApp\FirstApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch05\FirstApp\FirstApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch05\FirstApp\FirstApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch05\FirstApp\FirstApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch05\FirstApp\FirstApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch05\FirstApp\FirstApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

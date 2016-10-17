@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELLBOOK</Machine>
+    <WindowsUser>AntonioTuribbio</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5788turibbio.GetFileInfo</PackageIdentityName>
+    <RegisteredManifestChecksum>A6067FAC16BADF0A7C28B0592B693FB106123561174C940DA15E54DCCF25E00A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5788turibbio.GetFileInfo_1.1.0.0_neutral__zpe09ackwz7ta</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5788turibbio.GetFileInfo_zpe09ackwz7ta!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5788turibbio.GetFileInfo</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=B8C04164-A7F9-466B-B228-ECA23BBF9C4D</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-20T23:58:07.235</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\bin\Release\GetFileInfo.exe">
+      <PackagePath>GetFileInfo.exe</PackagePath>
+      <Modified>2013-11-21T20:40:42.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\Assets\BW8AGU.png">
+      <PackagePath>Assets\BW8AGU.png</PackagePath>
+      <Modified>2013-11-08T14:16:32.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-08T14:16:32.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-18T00:09:16.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-18T00:12:53.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-18T00:14:04.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-11-08T14:16:32.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-11-08T14:16:32.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-11-08T14:16:32.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-11-18T00:04:41.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\bin\Release\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2013-11-21T13:21:50.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-21T13:38:29.861</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

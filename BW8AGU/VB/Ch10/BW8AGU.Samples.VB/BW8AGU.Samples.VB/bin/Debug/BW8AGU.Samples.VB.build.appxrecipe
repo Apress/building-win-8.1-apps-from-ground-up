@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELLBOOK</Machine>
+    <WindowsUser>AntonioTuribbio</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8d39c672-e520-45de-8421-f9e966268bb8</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\BW8AGU.Samples.VB.exe">
+      <PackagePath>BW8AGU.Samples.VB.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\BW8AGU.png">
+      <PackagePath>Assets\BW8AGU.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\AutomationProperties.xbf">
+      <PackagePath>AutomationProperties.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\FormatDateTime.xbf">
+      <PackagePath>FormatDateTime.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\FormatNumbers.xbf">
+      <PackagePath>FormatNumbers.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\Resources.xbf">
+      <PackagePath>Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\VB\BW8AGU.Samples.VB-Ch10\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

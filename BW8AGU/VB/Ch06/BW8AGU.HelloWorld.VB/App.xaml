@@ -1,0 +1,15 @@
+﻿<Application
+    x:Class="BW8AGU.HelloWorld.VB.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BW8AGU.HelloWorld.VB"
+    xmlns:localData="using:BW8AGU.HelloWorld.VB.Data">
+
+    <Application.Resources>
+
+        <!-- Application-specific resources -->
+
+        <x:String x:Key="AppName">BW8AGU.HelloWorld.VB</x:String>
+
+    </Application.Resources>
+</Application>

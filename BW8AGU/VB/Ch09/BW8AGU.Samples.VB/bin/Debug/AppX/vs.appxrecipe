@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LEVIATHAN</Machine>
+    <WindowsUser>Nezumi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8d39c672-e520-45de-8421-f9e966268bb8</PackageIdentityName>
+    <RegisteredManifestChecksum>B73E17B0A53E8B99B060B7DA3C6BD588054791D984539761A94582204BAB6E87</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8d39c672-e520-45de-8421-f9e966268bb8_1.0.0.0_neutral__yxen3gkzcvs92</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8d39c672-e520-45de-8421-f9e966268bb8_yxen3gkzcvs92!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8d39c672-e520-45de-8421-f9e966268bb8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=AntonioTuribbio</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-27T10:21:19.844</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\BW8AGU.Samples.VB.exe">
+      <PackagePath>BW8AGU.Samples.VB.exe</PackagePath>
+      <Modified>2013-12-27T10:21:17.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\LockScreenBadgeUpdateTask\bin\Debug\LockScreenBadgeUpdateTask.winmd">
+      <PackagePath>LockScreenBadgeUpdateTask.winmd</PackagePath>
+      <Modified>2013-12-27T10:17:45.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-27T10:13:11.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\BW8AGU.png">
+      <PackagePath>Assets\BW8AGU.png</PackagePath>
+      <Modified>2013-11-01T20:41:54.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-27T10:13:54.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-01T20:41:54.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-01T20:41:54.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-01T20:41:55.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-01T20:41:54.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-11-01T20:41:54.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-11-01T20:41:54.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-11-01T20:41:54.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2013-12-27T10:06:50.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-11-03T22:12:41.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\BadgeNotificationSample.xbf">
+      <PackagePath>BadgeNotificationSample.xbf</PackagePath>
+      <Modified>2013-12-27T10:21:17.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2013-11-03T22:12:41.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\LiveTilesSample.xbf">
+      <PackagePath>LiveTilesSample.xbf</PackagePath>
+      <Modified>2013-11-03T22:12:41.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2013-11-03T22:12:41.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2013-11-03T22:12:41.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\VB\CH09\BW8AGU.Samples.VB\BW8AGU.Samples.VB\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-27T10:21:17.574</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

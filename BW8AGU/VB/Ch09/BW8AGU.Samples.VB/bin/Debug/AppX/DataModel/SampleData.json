@@ -1,0 +1,29 @@
+{"Groups":[
+  {
+    "UniqueId": "G1",
+    "Title": "Notifications",
+    "Subtitle": "",
+    "ImagePath": "Assets/MediumGray.png",
+    "Description" : "Chapter 9 - section 1",
+    "Items":
+    [
+      {
+        "UniqueId": "BW8AGU.Samples.VB.LiveTilesSample",
+        "Title": "Live tiles",
+        "Subtitle": "",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "See how live tiles works",
+        "Content" : ""
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.VB.BadgeNotificationSample",
+        "Title": "Badge Notifications",
+        "Subtitle": "",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "See how Badge Notification works",
+        "Content" : ""
+      }
+    ]
+  }
+]
+}

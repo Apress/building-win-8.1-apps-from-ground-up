@@ -1,0 +1,4 @@
+obj\Release\split.pri
+obj\Release\split.map.txt
+obj\Release\split.language-it.pri
+obj\Release\split.language-it.map.txt

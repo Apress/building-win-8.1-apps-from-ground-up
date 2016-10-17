@@ -1,0 +1,1 @@
+C:\Users\AntonioTuribbio\Source\Workspaces\BuildingWindows8AppsFromTheGroundUp\CSharp\BW8AGU.Samples.CSharp-Ch11\BW8AGU.Samples.CSharp\AppPackages\BW8AGU.Samples.CSharp_1.1.0.2_Test\BW8AGU.Samples.CSharp_1.1.0.2_AnyCPU.appxbundle

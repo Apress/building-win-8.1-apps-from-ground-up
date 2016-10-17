@@ -1,0 +1,50 @@
+{"Groups":[
+  {
+    "UniqueId": "Group-1",
+	"NoSample": "Group 1",
+    "Title": "Group Title: 1",
+    "Subtitle": "Group subtitle: 1",
+    "ImagePath": "Assets/MediumGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "BW8AGU.Samples.CSharp.AutomationProperties",
+		"NoSample": "Sample 1",
+        "Title": "Automation Properties",
+        "Subtitle": "Automation Properties",
+		"ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to use automation properties in xaml",
+        "Content" : "In this sample we will show how to automation properties in xaml"
+      },
+      {
+        "UniqueId": "BW8AGU.Samples.CSharp.ResourceAccess",
+		"NoSample": "Sample 2",
+        "Title": "Resource Access",
+        "Subtitle": "Resource Access",
+		"ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to access to resources through code",
+        "Content" : "In this sample we will show how to access to resources through code"
+      },
+      {
+        "UniqueId": "BW8AGU.Samples.CSharp.FormatDateTime",
+		"NoSample": "Sample 3",
+        "Title": "Format Date & Time",
+        "Subtitle": "Format Date & Time",
+		"ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to format date & time",
+        "Content" : "In this sample we will show how to format date & time"
+      },
+      {
+        "UniqueId": "BW8AGU.Samples.CSharp.FormatNumbers",
+		"NoSample": "Sample 3",
+        "Title": "Format Number",
+        "Subtitle": "Format Numbers",
+		"ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to format numbers and currencies",
+        "Content" : "In this sample we will show how to format numbers and currencies"
+      }
+    ]
+  }
+]
+}

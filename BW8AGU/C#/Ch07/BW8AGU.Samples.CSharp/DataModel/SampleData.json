@@ -1,0 +1,61 @@
+{"Groups":[
+  {
+    "UniqueId": "G1",
+    "Title": "Media and Sensors",
+    "Subtitle": "",
+    "ImagePath": "Assets/MediumGray.png",
+    "Description" : "Chapter 6 - section 1",
+    "Items":
+    [
+      {
+        "UniqueId": "BW8AGU.Samples.CSharp.GeoLocationSample",
+        "Title": "Geolocation",
+        "Subtitle": "",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "See how to use geolocation",
+        "Content" : ""
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.CSharp.CompassSample",
+        "Title": "Compass",
+        "Subtitle": "",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "See how to use sensors",
+        "Content" : ""
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.CSharp.PlayToSample",
+        "Title": "Play To",
+        "Subtitle": "",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "See how to participate in PlayTo Contract",
+        "Content" : ""
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.CSharp.BackgroundTaskSample",
+        "Title": "Background Task",
+        "Subtitle": "",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "See how to register a background task",
+        "Content" : ""
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.CSharp.SearchSample",
+        "Title": "Search Contract",
+        "Subtitle": "",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "See how to participate to search contract",
+        "Content" : ""
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.CSharp.ShareSample",
+        "Title": "Share Contract",
+        "Subtitle": "",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "See how to participate to share contract",
+        "Content" : ""
+      }
+    ]
+  }
+]
+}

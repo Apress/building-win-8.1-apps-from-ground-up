@@ -1,0 +1,38 @@
+{"Groups":[
+  {
+    "UniqueId": "G1",
+    "Title": "Media and Sensors",
+    "Subtitle": "",
+    "ImagePath": "Assets/MediumGray.png",
+    "Description" : "Chapter 6 - section 1",
+    "Items":
+    [
+      {
+        "UniqueId": "BW8AGU.Samples.VB.GeoLocationSample",
+        "Title": "Geolocation",
+        "Subtitle": "",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "See how to use geolocation",
+        "Content" : ""
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.CSharp.CompassSample",
+        "Title": "Compass",
+        "Subtitle": "",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "See how to use sensors",
+        "Content" : ""
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.CSharp.PlayToSample",
+        "Title": "Play To",
+        "Subtitle": "",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "See how to participate in PlayTo Contract",
+        "Content" : ""
+      }
+
+    ]
+  }
+]
+}

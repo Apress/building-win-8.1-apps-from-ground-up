@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LEVIATHAN</Machine>
+    <WindowsUser>Nezumi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>49bfa645-f318-4b1e-b659-557ef3906dd2</PackageIdentityName>
+    <RegisteredManifestChecksum>EC5EA211BFBB08CF123C6791417743478C374FC2525CEAE140F82170271127FC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>49bfa645-f318-4b1e-b659-557ef3906dd2_1.0.0.0_neutral__yxen3gkzcvs92</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>49bfa645-f318-4b1e-b659-557ef3906dd2_yxen3gkzcvs92!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>49bfa645-f318-4b1e-b659-557ef3906dd2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=AntonioTuribbio</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-24T15:52:13.218</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\bin\Debug\BW8AGU.Samples.CSharp.exe">
+      <PackagePath>BW8AGU.Samples.CSharp.exe</PackagePath>
+      <Modified>2013-12-24T15:52:10.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\LockScreenBackgroundTask\bin\Debug\LockScreenBackgroundTask.winmd">
+      <PackagePath>LockScreenBackgroundTask.winmd</PackagePath>
+      <Modified>2013-12-24T15:52:09.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-03T23:16:19.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\BW8AGU.png">
+      <PackagePath>Assets\BW8AGU.png</PackagePath>
+      <Modified>2013-11-02T14:18:54.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\picture.png">
+      <PackagePath>Assets\picture.png</PackagePath>
+      <Modified>2013-11-03T09:36:38.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-01T20:40:04.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-01T23:22:03.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-02T15:05:34.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-01T23:21:13.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-02T14:20:12.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-02T14:16:33.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-02T14:17:55.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-11-01T20:40:03.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-11-01T23:18:33.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-11-01T20:40:03.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2013-12-27T10:06:42.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-11-04T00:09:54.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\bin\Debug\BadgeNotificationSample.xbf">
+      <PackagePath>BadgeNotificationSample.xbf</PackagePath>
+      <Modified>2013-11-04T00:09:54.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2013-11-04T00:09:54.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2013-11-04T00:09:54.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\bin\Debug\LiveTilesSample.xbf">
+      <PackagePath>LiveTilesSample.xbf</PackagePath>
+      <Modified>2013-11-04T00:09:54.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2013-11-04T00:09:54.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\bin\Debug\ToastNotificationSample.xbf">
+      <PackagePath>ToastNotificationSample.xbf</PackagePath>
+      <Modified>2013-11-04T00:09:54.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\W8B\CS\CH09\BW8AGU.Samples.CSharp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-04T00:09:55.106</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

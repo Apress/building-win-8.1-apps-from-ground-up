@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Windows.Globalization.DateTimeFormatting.DateTimeFormatter">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Windows.Globalization.DateTimeFormatting.DayFormat">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Windows.Globalization.DateTimeFormatting.DayOfWeekFormat">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Windows.Globalization.DateTimeFormatting.HourFormat">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Windows.Globalization.DateTimeFormatting.MinuteFormat">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Windows.Globalization.DateTimeFormatting.MonthFormat">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Windows.Globalization.DateTimeFormatting.SecondFormat">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Windows.Globalization.DateTimeFormatting.YearFormat">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

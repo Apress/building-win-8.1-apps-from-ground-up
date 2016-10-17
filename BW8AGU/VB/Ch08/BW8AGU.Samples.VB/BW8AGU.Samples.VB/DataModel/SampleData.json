@@ -1,0 +1,122 @@
+{"Groups":[
+  {
+    "UniqueId": "Group-1",
+	"NoSample": "Group 1",
+    "Title": "Group Title: 1",
+    "Subtitle": "Group subtitle: 1",
+    "ImagePath": "Assets/MediumGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "BW8AGU.Samples.VB.LocalData",
+		"NoSample": "Sample 1",
+        "Title": "Local Data",
+        "Subtitle": "Local Data",
+		"ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to access to local data container",
+        "Content" : "In this sample we will show how to access to local data container"
+      },
+      {
+        "UniqueId": "BW8AGU.Samples.VB.RoamingData",
+		"NoSample": "Sample 2",
+        "Title": "Roaming Data",
+        "Subtitle": "Roaming Data",
+		"ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to access to roaming data container",
+        "Content" : "In this sample we will show how to access to roaming data container"
+      },
+      {
+        "UniqueId": "BW8AGU.Samples.VB.TempData",
+        "NoSample": "Sample 3",
+		"Title": "Temp Data",
+        "Subtitle": "Temp Data",
+		"ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to access to temp data container",
+        "Content" : "In this sample we will show how to access to temp data container"
+      },
+      {
+        "UniqueId": "BW8AGU.Samples.VB.UserData",
+		"NoSample": "Sample 4",
+        "Title": "User Data",
+        "Subtitle": "User Data",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to handle user data",
+        "Content" : "In this sample we will show how to handle user data"
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.VB.SQLiteAccess",
+		"NoSample": "Sample 5",
+        "Title": "SQLite Access",
+        "Subtitle": "SQLite Access",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to use a SQLite Database to store data",
+        "Content" : "In this sample we will show how to use a SQLite Database to store data"
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.VB.WCFClient",
+		"NoSample": "Sample 6",
+        "Title": "WCF Client",
+        "Subtitle": "WCF Client",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to use a WCF Service Client to retrieve data",
+        "Content" : "In this sample we will show how to use a WCF Service Client to retrieve data"
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.VB.Syndication",
+		"NoSample": "Sample 7",
+        "Title": "Syndication",
+        "Subtitle": "Syndication",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to use Syndication API to retrieve feeds",
+        "Content" : "In this sample we will show how to use Syndication API to retrieve feeds"
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.VB.HTTPClient",
+		"NoSample": "Sample 8",
+        "Title": "HTTP Client",
+        "Subtitle": "HTTP Client",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to use HTTP Client to make a request",
+        "Content" : "In this sample we will show how to use HTTP Client to make a request"
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.VB.AzureMobileServices",
+		"NoSample": "Sample 9",
+        "Title": "Azure Mobile Services",
+        "Subtitle": "Azure Mobile Services",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to use Windows Azure Mobile Services",
+        "Content" : "In this sample we will show how to use Windows Azure Mobile Services"
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.VB.PasswordVaultExample",
+		"NoSample": "Sample 10",
+        "Title": "Password Vault",
+        "Subtitle": "Password Vault",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to use the PasswordVault",
+        "Content" : "In this sample we will show how to use the PasswordVault"
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.VB.FacebookAuth",
+		"NoSample": "Sample 11",
+        "Title": "Facebook Authentication",
+        "Subtitle": "Facebook Authentication",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to connect to Facebook",
+        "Content" : "In this sample we will show how to connect to Facebook"
+      },
+	  {
+        "UniqueId": "BW8AGU.Samples.VB.ContactPicker",
+		"NoSample": "Sample 12",
+        "Title": "Contact Picker",
+        "Subtitle": "Contact Picker",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "In this sample we will show how to use the ContactPicker class",
+        "Content" : "In this sample we will show how to use the ContactPicker class"
+      }
+    ]
+  }
+]
+}
